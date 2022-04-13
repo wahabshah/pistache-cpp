@@ -19,9 +19,3 @@ Hello World!
 ```
 
 # Links
-
-```sh
-stretch 
-Meson version is 0.37.1 but project requires >=0.50.0.
-
-```
